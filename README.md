@@ -1,7 +1,3 @@
-<p align="center" width="100%">
-  <img src="./logo.jpg">
-</p>
-
 # About Us 🏆
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
