@@ -11,6 +11,7 @@ Chief Designer (CDO): Relax ([X](https://x.com/relax_aerox))
 ## Our Official Pages
 | Platform       | Link                        |
 |--------------|---------------------------------|
-| **Website**  | [aerox.network](https://aerox.network) |
-| **GitHub**   | [github.com/aeroxstudio](https://github.com/AeroxStudio) |
-| **Telegram** | [t.me/aerox_chain](https://t.me/aerox_chain) |
+| 🌐 **Website**  | [aerox.network](https://aerox.network) |
+| 💻 **GitHub**   | [github.com/aeroxstudio](https://github.com/AeroxStudio) |
+| 📢 **Telegram** | [t.me/aerox_chain](https://t.me/aerox_chain) |
+| 🔔 **X** | [x.com/aerox_chain](https://x.com/aerox_chain) |
