@@ -7,3 +7,10 @@ AeroxStudio is a Russian software development company focused on blockchain tech
 ## Our team of developers
 Team Lead (CEO): Pedro ([X](https://x.com/pedro_aerox))  
 Chief Designer (CDO): Relax ([X](https://x.com/relax_aerox))
+
+## Our Official Pages
+| Platform       | Link                        |
+|--------------|---------------------------------|
+| **Website**  | [aerox.network](https://aerox.network) |
+| **GitHub**   | [github.com/aeroxstudio](https://github.com/AeroxStudio) |
+| **Telegram** | [t.me/aerox_chain](https://t.me/aerox_chain) |
